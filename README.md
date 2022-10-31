@@ -1,6 +1,6 @@
 # Repo Name
 ## Repo Description
-### View the [live project here.](https://kirstendarling.github.io/206-flexbox-starter-layout/)
+### View the [live project here.](https://kirstendarling.github.io/Flexbox-Skillcrush-Starter-Layout/)
 
 ### Screenshot
 
